@@ -1,2 +1,2 @@
-# JWT-Authentication-Django-Rest-Framework
-JWT Authentication in Django Rest Framework
+# JWT-Authentication
+JWT Authentication using Django Rest Framework and Angular
